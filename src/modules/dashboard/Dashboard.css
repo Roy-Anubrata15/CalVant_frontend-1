@@ -5253,6 +5253,7 @@ html {
 .dashboard-feature-icon {
   font-size: 24px;
   margin-bottom: var(--space-12);
+  color: #f9fafb;
 }
 
 .dashboard-feature-title {
@@ -5592,6 +5593,7 @@ html {
 }
 
 .dashboard-integration-logo {
+  color: #e5e7eb;
   font-size: 20px;
 }
 
